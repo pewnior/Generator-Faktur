@@ -5,10 +5,10 @@ Program służy do generowania faktur. Przeznaczony jest dla firm świadczących
 W celu używania programu należy zaintalować Python oraz bilbioteki tkinker oraz reportlab
 
 # Funkcje
--Generowanie faktur
--Automatyczna numeracja faktur
--Możliwość tworzenia bazy sprzedawców
--Możliowść wyboru miejsca zapisu faktur
+-Generowanie faktur </br>
+-Automatyczna numeracja faktur</br>
+-Możliwość tworzenia bazy sprzedawców</br>
+-Możliowść wyboru miejsca zapisu faktur</br>
 
 # Author
 Maciej Pewniak - @pewnior
