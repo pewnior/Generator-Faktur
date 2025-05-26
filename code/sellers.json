@@ -1,0 +1,20 @@
+{
+    "sellers": [
+        {
+            "name": "przyklad",
+            "sellerp1": "nazwa",
+            "sellerp2": "dalsza czesc",
+            "address": "adres",
+            "post": "98-200 Sieradz",
+            "nip": "1234567890"
+        },
+        {
+            "name": "przyklad1",
+            "sellerp1": "nazwa2",
+            "sellerp2": "nazwa2 dalej",
+            "address": "adres 2",
+            "post": "00-001 Warszawa",
+            "nip": "1112223334"
+        }
+    ]
+}
